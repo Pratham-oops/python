@@ -1,0 +1,1 @@
+print(b.center(50))#it aligns the text to center
